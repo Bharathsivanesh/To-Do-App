@@ -1,0 +1,13 @@
+1)npm install -g expo-cli
+2)expo init MyFirstApp
+3)cd MyFirstApp
+npm start
+4)npm install @react-navigation/native-stack
+5)add babel setup (create babel.config.js)
+ module.exports = function (api) {
+  api.cache(true);
+  return {
+    presets: ["babel-preset-expo"],
+  };
+};
+
