@@ -18,7 +18,7 @@ Follow these steps to get the app running locally:
 3.npm start
 
 Screenshots:
-![Uploading ![Image](httpsgithub.comuser-attachmentsassets7caea2e5-4402-4e85-80fc-886eeb8276e5).png…]()
+![Image](https://github.com/user-attachments/assets/608567b8-8e04-4ec2-83ca-63b9ae61b7ac)
 
 
 
